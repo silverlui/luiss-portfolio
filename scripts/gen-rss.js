@@ -9,14 +9,14 @@ async function generate() {
     site_url: 'https://something.com',
   })
 
-  const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'))
+  const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'projects'))
 
   await Promise.all(
     posts.map(async (name) => {
       if (name.startsWith('index.')) return
 
       const content = await fs.readFile(
-        path.join(__dirname, '..', 'pages', 'posts', name)
+        path.join(__dirname, '..', 'pages', 'projects', name)
       )
       const frontmatter = matter(content)
 

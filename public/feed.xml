@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Luis Cabrera]]></title>
+        <description><![CDATA[Luis Cabrera]]></description>
+        <link>https://something.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 17 Nov 2023 16:59:54 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[Task-App]]></title>
+            <description><![CDATA[A RESTful Todo App that is implemented on the .NET Framework.]]></description>
+            <link>/posts/task-app</link>
+            <guid isPermaLink="true">/posts/task-app</guid>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[Luis Cabrera]]></dc:creator>
+            <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
