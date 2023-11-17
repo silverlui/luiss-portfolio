@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Inter var';
   font-style: normal;
-font-weight: 1`00 900;
+  font-weight: 100 900;
   font-display: block;
   src: url(/fonts/Inter-roman.latin.var.woff2) format('woff2');
 }
@@ -34,7 +34,7 @@ h6 {
   font-variation-settings: 'wght' 650;
 }
 h1 {
-  font-variation-settings: 'wght' 850;
+  display: none;
 }
 h2 {
   font-variation-settings: 'wght' 750;

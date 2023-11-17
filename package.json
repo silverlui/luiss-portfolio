@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
+    "luxon": "^3.4.4",
     "next": "latest",
     "nextra": "^2.0.0-beta.5",
     "nextra-theme-blog": "^2.0.0-beta.5",
