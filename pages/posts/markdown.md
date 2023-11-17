@@ -1,9 +1,9 @@
 ---
 title: Markdown Examples
-date: 2021/3/19
+date: 2023-11-16
 description: View examples of all possible Markdown options.
 tag: web development
-author: You
+author: Luis Cabrera
 ---
 
 # Markdown Examples

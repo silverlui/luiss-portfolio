@@ -1,7 +1,9 @@
 ---
 type: posts
-title: Posts
-date: 2021-03-18
+title: blog
+date: 2023-11-16
 ---
 
 # Posts
+
+A collection of my thoughts and interests.
