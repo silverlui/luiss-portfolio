@@ -14,6 +14,4 @@ Here are some of the projects I've worked on:
 I'm always open to discussing opportunities and collaborations. Feel free to reach out to me via:
 
 Email: luis.cabrera1014@gmail.com
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
 Let's connect and build something amazing together! 🌟
