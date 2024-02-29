@@ -1,5 +1,5 @@
 # Luis Cabrera's Portfolio
-Welcome to my portfolio! Today's date is Wednesday, 28th of February.
+Welcome to my portfolio!
 
 Hey there, I'm Luis! 🚀 An aspiring software engineer currently studying at Florida Gulf Coast University. I'm enthusiastic about diving into the professional world and am actively seeking an internship that aligns with my aspirations. I primarily enjoy working with the .Net Framework and Next.js. My passion lies in crafting beautiful and modern front-end experiences, as well as building stable and performant back-ends.
 
