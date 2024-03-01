@@ -1,4 +1,6 @@
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/silverlui/luiss-portfolio/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/silverlui/luiss-portfolio)
+[![OpenSSF Scorecard]
+(htt‌ps://api.securityscorecards.dev/projects/github.com/silverlui/luiss-portfolio/badge)]
+(htt‌ps://securityscorecards.dev/viewer/?uri=github.com/silverlui/luiss-portfolio)
 
 # Luis Cabrera's Portfolio
 Welcome to my portfolio!
