@@ -1,5 +1,6 @@
 import 'nextra-theme-blog/style.css'
 import type { AppProps } from 'next/app'
+import { Analytics } from "@vercel/analytics/react"
 import Head from 'next/head'
 import '../styles/main.css'
 
@@ -15,6 +16,7 @@ export default function App({ Component, pageProps }: AppProps) {
           crossOrigin="anonymous"
         />
       </Head>
+      <Analytics />
       <Component {...pageProps} />
     </>
   )

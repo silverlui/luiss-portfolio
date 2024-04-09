@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.2.2",
     "gray-matter": "^4.0.3",
     "luxon": "^3.4.4",
     "next": "latest",
