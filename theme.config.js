@@ -1,4 +1,4 @@
-const YEAR = new Date().getFullYear()
+const YEAR = 2025
 
 export default {
   darkMode: true,

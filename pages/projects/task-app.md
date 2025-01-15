@@ -1,6 +1,6 @@
 ---
 title: Task-App
-date: 2022-11-04
+date: "2022-11-04"
 description: A RESTful Todo App that is implemented on the .NET Framework.
 tag: web development
 author: Luis Cabrera
